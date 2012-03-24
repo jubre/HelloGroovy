@@ -1,1 +1,1 @@
-def name = 'world'println "Hello $name"
+def name = 'world'println "Hello $name"
